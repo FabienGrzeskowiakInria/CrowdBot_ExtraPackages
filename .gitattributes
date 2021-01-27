@@ -1,1 +1,2 @@
 ParisExterior.unitypackage filter=lfs diff=lfs merge=lfs -text
+MinimumAvatar.unitypackage filter=lfs diff=lfs merge=lfs -text
